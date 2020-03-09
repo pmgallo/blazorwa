@@ -16,5 +16,5 @@ namespace BlazorWAApp
 
             await builder.Build().RunAsync();
         }
-    }
+    } 
 }
